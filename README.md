@@ -9,7 +9,7 @@ Pour installer et utiliser cet outil, assurez-vous d'avoir **python>=3.9** insta
 1. Clonez le dépôt :
     
     ```bash
-    git clone https://github.com/cert/cert/nvd_cve_retriever.git
+    git clone https://github.com/zxtNX/nvd_cve_retriever.git
     ```
 
 2. Accédez au répertoire du projet :
