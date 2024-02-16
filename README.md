@@ -1,4 +1,4 @@
-# NVD CVE Retriever
+# NVD CVE Retriever (WIP)
 
 ## Description
 **NVD CVE Retriever est un outil en ligne de commande pour récupérer des informations sur les vulnérabilités récentes à partir de la base de données NVD *(National Vulnerability Database)*.**
